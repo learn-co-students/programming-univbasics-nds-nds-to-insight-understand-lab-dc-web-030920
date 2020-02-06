@@ -4,8 +4,10 @@ require 'directors_database'
 
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
-  nil
+  pp nds
 end
 
 def print_first_directors_movie_titles
+  #print "Jaws\nClose Encounters of the Third Kind\nRaiders of the #Lost Ark\nE.T. the Extra-terrestrial\nSchindler's   #List\nLincoln\n"
+  
 end
